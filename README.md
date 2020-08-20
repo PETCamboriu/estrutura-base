@@ -13,7 +13,17 @@ O que eu quero dizer com isso, é que nos devemos para com esse pensamento de um
 
 O principal deles é a metodologia **S.O.L.I.D.** que é a base do projeto, sem entrar em detalhes ela diz como manter um código limpo, tambem se o utilizando das práticas do **CleanCode**, organizado, e o principal deles legível para tratamento de erros ou adição de novas funções.
 
+### Explicação sobre as pastas desta arquitetura
 
+Bom vamos lá pessoal começaremos pelo começo, sim, a pasta **src**, bom dentro desta pasta é onde deve constar todo o nosso código seja ele _backend_ é claro dentro dela podemos ver algumas subpastas como o:
+### **database**
+Como o próprio nome já diz nela consta todos os nosso arquivos/informações sobre nosso banco de dados, incluindo nela as pasta **migtaions**(para o versionamento do nosso banco de dados), **models/enetities**(onde ficam nossos "modelos/entidades" de tabelas como users, ou companies), e por fim temos o arquivos **connection** que o proprrio nome já fala por si, ele é nosso conexão com o banco.
+### **provider**
+Nesta pasta nós temos nossos arquivos que são responsáveis por fazer alguma funcionalidade no sistema, como por exemplo envio de email, então temos a pasta **sendEmail** e dentro desta página teremos todos os arquivos envolvido com o envio de emails como por exemplo o sendEmail, e o getUserEmail. Então para cada novo "micro-serviço" ou funcionalidade no sistema criamos uma nova pasta como por exemplo verificar o email do novo usuário registrado.
+### **repositories**
+Em repositories ficam os arquivos de tratamento de funções no nosso banco de dados como por exemplo inserir um novo usuario, respeitando a criação de pastas para cada tabela do banco banco, por exemplo na pasta User nos tratamos de funções/operações na tabela de usuario como por exemplo inserir ou pegar todos os emails dos usuarios registrados, onde cada arquivo representa uma funcionalidade que é exportada para o arquivo index da pasta, a ideia de fazer tal organização é tentar ao maximo o reaproveitamento de código pelo sistema.
+### **routes**
+Presente nesta pasta constam nossos arquivos que ditam que rotas pessoas com permissão administrativa podem frequentar, assim como pessoas com permissão pública.
 
 # <Nome do programa/>
 
