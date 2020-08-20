@@ -2,6 +2,7 @@
 
 ## Descrição:
 
+Tente colocar a descrição dos futuros projetos da maneira mais clara possível utilizando do principal motivo de sua criação(justificativa no caso), e logo em seguida sua(s) principal(is) funcionalidade(s), de maneira sucinta abortar seu funcionamento sem entrar em termos tecnicos ou que demandem algum conhecimento prévio/específco.
 
 ## Descricação da arquitetura
 
