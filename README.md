@@ -26,6 +26,7 @@ Em repositories ficam os arquivos de tratamento de funções no nosso banco de d
 Presente nesta pasta constam nossos arquivos que ditam que rotas pessoas com permissão administrativa podem frequentar, assim como pessoas com permissão pública.
 
 <hr>
+
 Continuando a explicação sobre a organização de pastas agora vamos para as de **__test__**, **build**, **dist**, **node_modules** e por fim **images**, let's go começando pela a pasta node_modules:
 
 ### **node_modules**
