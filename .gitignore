@@ -1,1 +1,3 @@
 Aqui deve constar os arquivos e/ou pastas que não devem ser enviadas ao github, por mais que os projeto do pet sejam privados, por questão de espaço, segurança e configuração de serviços a mesmas devem ser restringidas de constar no repositório, estas pastas são: node_modules(responsável por guardar todos as dependêcias que serão utilizadas nos nossos projetos), dist(responsável por guardar os arquivos .ts compilados para .js) e build(responsável por ser a pasta onde quando completo nosso projeto será a pasta de produção ou seja a que será utilizadas por nossos usuários).
+
+Observações: Ao usar essa estrutura como modelo remova o arquivos .gitkeep presente nas pastas node_modules, dist e build.
