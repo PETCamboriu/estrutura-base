@@ -1,0 +1,19 @@
+{
+  "name": "sistema-de-gestao-de-eventos-unificado",
+  "description": "Criação e desenvolvimento de um software com a capacidade de centralizar as páginas tanto quantos os sites de eventos referentes as semanas acadẽmicas do Instituto Federal Catarinense - Campus Camboriú",
+  "contributors": [
+    {
+      "name": "Gabriel Paz dos Santos",
+      "email": "heiwa.gabriel@gmail.com",
+      "url": "https://github.com/gabrielheiwa/gabrielheiwa"
+    }
+  ],
+  "author": {
+    "name": "Programa de Estudo Tutorial - PET",
+    "email": "pet.camboriu@ifc.edu.br",
+    "url": "https://www.pet.ifc-camboriu.edu.br/"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
