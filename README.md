@@ -17,7 +17,7 @@ O principal deles é a metodologia **S.O.L.I.D.** que é a base do projeto, sem 
 
 ## Descrição:
 
-Tente colocar a descrição dos futuros projetos da maneira mais clara possível utilizando do principal motivo de sua criação(justificativa no caso), e logo em seguida sua(s) principal(is) funcionalidade(s), de maneira sucinta abortar seu funcionamento sem entrar em termos tecnicos ou que demandem algum conhecimento prévio/específco.
+Tente colocar a descrição dos futuros projetos da maneira mais clara possível utilizando do principal motivo de sua criação(justificativa no caso), e logo em seguida sua(s) principal(is) funcionalidade(s), de maneira sucinta abortar seu funcionamento sem entrar em termos tecnicos ou que demandem algum conhecimento prévio/específco, algo que pode ajudar futuros desenvolvedores é a utilização de um gife que nos permita ver o funcionamento principal do sistema.
 
 ## Tenologias:
 
