@@ -25,6 +25,21 @@ Em repositories ficam os arquivos de tratamento de funções no nosso banco de d
 ### **routes**
 Presente nesta pasta constam nossos arquivos que ditam que rotas pessoas com permissão administrativa podem frequentar, assim como pessoas com permissão pública.
 
+
+Continuando a explicação sobre a organização de pastas agora vamos para as de **__test__**, **build**, **dist**, **node_modules** e por fim **images**, let's go começando pela a pasta node_modules:
+
+### **node_modules**
+Esta pasta é simples de se entender, bom todos os modulos ou dependencias que necesistarmos usarmos durante o desenvolvimento dos nossos projetos vão pra essa pasta, em resumo ela é responsável por guardar e gerir todos os modulos que necessitarmos durante a criação dos projetos.
+### **images**
+Na pasta _images_ é onde podermos guardas screenshots ou gifes sobre funcionamento da nossa aplicação a fim de mostra-lo(a) no README do projeto.
+### **__test__**
+Bom Nesta pasta ficam todos os testes de aprovação do sistema, são estes teste que permitem a nos garantir um melhor resultado e tratamento de bugs antes do software sair para produção e até mesmo durante.
+### **dist**
+Na pasta chamada _dist_ é onde nos podemos colocar nosso código typescript compilado em javascript antes mesmo dele ir para produção.
+### **build**
+E por e não menos importanten a pasta _build_ que é onde fica nosso software completo após passar por todos os seus testes, e compilação, está pasta é aquele que será enviada para ser usada na produção.
+
+
 # <Nome do programa/>
 
 ## Descrição:
