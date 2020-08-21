@@ -11,7 +11,7 @@ O que eu quero dizer com isso, é que nos devemos para com esse pensamento de um
 
 ### Conceitos/ideias usadas
 
-O principal deles é a metodologia **S.O.L.I.D.** que é a base do projeto, sem entrar em detalhes ela diz como manter um código limpo, tambem se o utilizando das práticas do **CleanCode**, organizado, e o principal deles legível para tratamento de erros ou adição de novas funções.
+O principal deles é a metodologia [**S.O.L.I.D.**](https://www.notion.so/TypeScript-0885db4ad549493a9322a1c2d6a5929d) que é a base do projeto, sem entrar em detalhes ela diz como manter um código limpo, tambem se o utilizando das práticas do **CleanCode**, organizado, e o principal deles legível para tratamento de erros ou adição de novas funções.
 
 ### Explicação sobre as pastas desta arquitetura
 
