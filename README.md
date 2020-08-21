@@ -11,11 +11,8 @@ O que eu quero dizer com isso, é que nos devemos parar com esse pensamento um t
 
 ### Conceitos/ideias usadas
 
-<<<<<<< HEAD
 O principal deles é a metodologia [**S.O.L.I.D.**](https://www.notion.so/TypeScript-0885db4ad549493a9322a1c2d6a5929d) que é a base do projeto, sem entrar em detalhes ela diz como manter um código limpo, tambem se o utilizando das práticas do **CleanCode**, organizado, e o principal deles legível para tratamento de erros ou adição de novas funções.
-=======
 O principal deles é a metodologia **S.O.L.I.D.** que é a base do projeto, sem entrar em detalhes ela diz como manter um código limpo, tambem se o utilizando das práticas do **CleanCode**, organizado, e o principal deles legível para tratamento de erros ou adição de novas funções, não se pode esquecer também das arquiteturas de softwares que obedecem a terminologia S.O.L.I.D., como as factories, observer entre muito outros, o uso dessas arquiteturas varia de software para software, por isso não entrarei em detalhes mas recomendo os seus estudos.
->>>>>>> 4c128f99d5815ecddc4e84763ab2698a2219ec26
 
 ### Explicação sobre as pastas desta arquitetura
 
