@@ -18,7 +18,7 @@ O principal deles é a metodologia **S.O.L.I.D.** que é a base do projeto, sem 
 
 Bom vamos lá pessoal começaremos pelo começo, sim, a pasta **src**, bom dentro desta pasta é onde deve constar todo o nosso código seja ele _backend_ é claro, não entraremos no _frontend_ por enquanto, dentro dela podemos ver algumas subpastas como o:
 ### **database**
-Como o próprio nome já diz nela consta todos os nosso arquivos/informações sobre nosso banco de dados, incluindo nela as pasta **migtaions**(para o versionamento do nosso banco de dados), **models/entities**(onde ficam nossos "modelos/entidades" de tabelas como users, ou companies), e por fim temos o arquivo **connection** que como o proprio nome já fala por si, ele é a nosso conexão com o banco.
+Como o próprio nome já diz nela consta todos os nosso arquivos/informações sobre nosso banco de dados, incluindo nela as pasta **migraions**(para o versionamento do nosso banco de dados), **models/entities**(onde ficam nossos "modelos/entidades" de tabelas como users, ou companies), e por fim temos o arquivo **connection** que como o proprio nome já fala por si, ele é a nosso conexão com o banco.
 ### **provider**
 Nesta pasta nós temos os arquivos que são responsáveis por fazer alguma funcionalidade extra no sistema, como por exemplo envio de email, então temos a pasta **sendEmail** e dentro desta página teremos todos os arquivos envolvidos com o envio de emails, como por exemplo o sendEmail, e o getUserEmail. Então para cada novo "micro-serviço" ou funcionalidade no sistema criamos uma nova pasta como por exemplo: verificar o email do novo usuário registrado ou verifyUserEmailRegistred para os intimos.
 ### **repositories**
